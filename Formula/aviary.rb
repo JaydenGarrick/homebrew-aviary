@@ -1,8 +1,8 @@
 class Aviary < Formula
   desc "Ratatui cockpit for repo-resident Claude Code agents"
   homepage "https://github.com/JaydenGarrick/aviary"
-  url "https://github.com/JaydenGarrick/aviary/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "06ea437a060d4610ede32556241ac0df7e8b768b85d16c937c80ee8875ea3888"
+  url "https://github.com/JaydenGarrick/aviary/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "a65ae9ee536d3b0fcc7e363b0b565d41036b94990b72500b3995a54b4d4fc62f"
   license "MIT"
   head "https://github.com/JaydenGarrick/aviary.git", branch: "main"
 
